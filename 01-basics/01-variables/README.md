@@ -2,9 +2,9 @@
 
 ## What I'm learning
 
-- command-line arguments
-- String[]
-- Path
+- Variables types
+- Declaration
+- 
 - Files.readString()
 - static
 - void
